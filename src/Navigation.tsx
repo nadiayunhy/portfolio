@@ -107,6 +107,7 @@ const NavigationWrapper = styled.div`
 const NavigationHome = styled.div`
   font-family: Montserrat, sans-serif;
   font-size: 24px;
+  letter-spacing: 1px;
   font-weight: 700;
   text-decoration: underline;
   text-decoration-thickness: 3.5px;
@@ -115,7 +116,8 @@ const NavigationHome = styled.div`
 
 const NavigationItems = styled.div`
   display: flex;
-  gap: 30px;
+  gap: 50px;
+  letter-spacing: 1px;
   font-family: Montserrat, sans-serif;
   font-size: 16px;
   font-weight: 600;
