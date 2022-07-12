@@ -60,7 +60,6 @@ const ImageWrapper = styled.div`
 `;
 
 const Image = styled.img`
-  max-width: 590px;
 `;
 
 const Footer = styled.div`
