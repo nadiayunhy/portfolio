@@ -95,6 +95,9 @@ const MenuItem = styled.div`
 
 const NavigationWrapper = styled.div`
   width: 100%;
+  max-width: 1300px;
+  margin: auto;
+  padding-inline: 50px;
   padding-top: 30px;
   padding-bottom: 30px;
   height: 98px;

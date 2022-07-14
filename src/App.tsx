@@ -25,6 +25,9 @@ const Wrapper = styled.div`
 
 const Footer = styled.div`
   padding-block: 40px;
+  padding-inline: 50px;
+  max-width: 1300px;
+  margin: auto;
   font-family: Montserrat, sans-serif;
   font-size: 12px;
   font-weight: 400;
